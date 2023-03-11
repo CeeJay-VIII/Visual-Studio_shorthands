@@ -1,1 +1,1 @@
-Visual Studio short hand
+Visual Studio short hands
